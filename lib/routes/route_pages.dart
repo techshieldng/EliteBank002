@@ -36,7 +36,7 @@ import 'package:qrpay/views/profile/update_profile_screen.dart';
 import '../bindings/initial_binding.dart';
 import '../bindings/splash_screen_binding.dart';
 import '../language/english.dart';
-import '../views/ referral/refer_status_screen.dart';
+import '../views/referral/refer_status_screen.dart';
 import '../views/auth/kyc_from/kyc_from_screen.dart';
 import '../views/auth/login/email_verification_screen.dart';
 import '../views/auth/login/phone_verification_screen.dart';
