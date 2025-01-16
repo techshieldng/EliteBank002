@@ -6,7 +6,7 @@ import '../../../../backend/model/categories/virtual_card/strowallet_models/stro
 import '../../../../backend/model/categories/virtual_card/strowallet_models/strowallet_create_card_fields_model.dart';
 import '../../../../backend/model/common/common_success_model.dart';
 import '../../../../backend/model/wallets/wallets_model.dart';
-import '../../../../backend/services/ strowallet_api_services.dart';
+import '../../../../backend/services/strowallet_api_services.dart';
 import '../../../../backend/services/api_endpoint.dart';
 import '../../../../backend/utils/request_process.dart';
 import '../../../../language/language_controller.dart';
