@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:qrpay/backend/services/%20strowallet_api_services.dart';
+import 'package:qrpay/backend/services/strowallet_api_services.dart';
 
 import '../../../../backend/model/categories/virtual_card/strowallet_models/charge_strowallet_model.dart';
 import '../../../../backend/model/common/common_success_model.dart';
