@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557161643791",
+    "project_id": "elite-bainc",
+    "storage_bucket": "elite-bainc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557161643791:android:523e6c6a4660f9dbce087a",
+        "android_client_info": {
+          "package_name": "com.elitebainc.voltcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9Bww-E8gIkUAQB8JPOzcbhVxOAQdGz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
